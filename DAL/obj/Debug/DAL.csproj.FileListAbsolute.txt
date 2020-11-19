@@ -1,0 +1,27 @@
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\DAL\bin\Debug\DAL.dll
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\DAL\bin\Debug\DAL.pdb
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\DAL\bin\Debug\MODELS.dll
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\DAL\bin\Debug\MODELS.pdb
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\DAL\obj\Debug\DAL.dll
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\DAL\obj\Debug\DAL.pdb
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\DAL\bin\Debug\DAL.dll
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\DAL\bin\Debug\DAL.pdb
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\DAL\bin\Debug\MODELS.dll
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\DAL\bin\Debug\MODELS.pdb
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\DAL\obj\Debug\DAL.dll
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\DAL\obj\Debug\DAL.pdb
+C:\Projetos\videolandia-dalppII-master\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Projetos\videolandia-dalppII-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Projetos\videolandia-dalppII-master\DAL\obj\Debug\DAL.dll
+C:\Projetos\videolandia-dalppII-master\DAL\obj\Debug\DAL.pdb
+C:\Projetos\videolandia-dalppII-master\DAL\bin\Debug\DAL.dll
+C:\Projetos\videolandia-dalppII-master\DAL\bin\Debug\DAL.pdb
+C:\Projetos\videolandia-dalppII-master\DAL\bin\Debug\MODELS.dll
+C:\Projetos\videolandia-dalppII-master\DAL\bin\Debug\MODELS.pdb
+C:\Projetos\videolandia-dalppII-master\DAL\obj\Debug\DAL.csproj.CopyComplete

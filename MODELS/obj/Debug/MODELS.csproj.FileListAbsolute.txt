@@ -1,0 +1,18 @@
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\MODELS\bin\Debug\MODELS.dll
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\MODELS\bin\Debug\MODELS.pdb
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\MODELS\obj\Debug\MODELS.csprojAssemblyReference.cache
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\MODELS\obj\Debug\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\MODELS\obj\Debug\MODELS.dll
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\MODELS\obj\Debug\MODELS.pdb
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\MODELS\bin\Debug\MODELS.dll
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\MODELS\bin\Debug\MODELS.pdb
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\MODELS\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\MODELS\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\MODELS\obj\Debug\MODELS.dll
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\MODELS\obj\Debug\MODELS.pdb
+C:\Projetos\videolandia-dalppII-master\MODELS\bin\Debug\MODELS.dll
+C:\Projetos\videolandia-dalppII-master\MODELS\bin\Debug\MODELS.pdb
+C:\Projetos\videolandia-dalppII-master\MODELS\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Projetos\videolandia-dalppII-master\MODELS\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Projetos\videolandia-dalppII-master\MODELS\obj\Debug\MODELS.dll
+C:\Projetos\videolandia-dalppII-master\MODELS\obj\Debug\MODELS.pdb

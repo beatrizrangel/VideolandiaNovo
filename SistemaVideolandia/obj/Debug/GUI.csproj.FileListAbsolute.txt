@@ -1,0 +1,25 @@
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\SistemaVideolandia.frmCliente.resources
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\SistemaVideolandia.frmFuncionario.resources
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\SistemaVideolandia.frmLogin.resources
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\SistemaVideolandia.frmPrincipal.resources
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\SistemaVideolandia.frmItens.resources
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\SistemaVideolandia.Properties.Resources.resources
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\bin\Debug\SistemaVideolandia.exe.config
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\bin\Debug\SistemaVideolandia.exe
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\bin\Debug\SistemaVideolandia.pdb
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\SistemaVideolandia.exe
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\SistemaVideolandia.pdb
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\bin\Debug\DAL.dll
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\bin\Debug\MODELS.dll
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\bin\Debug\DAL.pdb
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\bin\Debug\MODELS.pdb
+C:\Users\Beatriz Rangel\source\repos\SistemaVideolandia\SistemaVideolandia\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\SistemaVideolandia\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\SistemaVideolandia\obj\Debug\SistemaVideolandia.exe
+C:\Users\Bia\Documents\Aproveitar para trabalho\Videolandia antigo\videolandia-dalppII-master (1)\videolandia-dalppII-master\SistemaVideolandia\obj\Debug\SistemaVideolandia.pdb
+C:\Projetos\videolandia-dalppII-master\SistemaVideolandia\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Projetos\videolandia-dalppII-master\SistemaVideolandia\obj\Debug\SistemaVideolandia.exe
+C:\Projetos\videolandia-dalppII-master\SistemaVideolandia\obj\Debug\SistemaVideolandia.pdb
